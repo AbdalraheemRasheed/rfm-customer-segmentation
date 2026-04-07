@@ -1,5 +1,8 @@
 # RFM Customer Segmentation
 Data analysis project focused on customer segmentation using RFM (Recency, Frequency, Monetary) model to uncover insights, identify VIP customers, improve retention, and support business decision-making.
+## 📈  Charts and pivot table screenshots
+<img width="1038" height="531" alt="image" src="https://github.com/user-attachments/assets/978b4ffa-8a29-45bb-9eb9-6bec71a88614" />
+
 
 ## 📊 Key Insights
 - VIP customers generate a large portion of total revenue.
@@ -22,11 +25,14 @@ Data analysis project focused on customer segmentation using RFM (Recency, Frequ
 * Matplotlib visualizations
 
 ## 📁 Project Structure
-* analys[rfm-customer_analysis-code.py](https://github.com/user-attachments/files/26543321/rfm-customer_analysis-code.py)is.py — Main Python script (data cleaning, RFM calculation, visualizations)
-* `rfm-customer_analysis-SQL.sql` — MySQL queries for data exploration
-* `rfm-customer_analysis-excel.xlsx` — Pivot tables and charts
-* `data/` — Dataset files
-* `visuals/` — Charts and pivot table screenshots
+* analys[rfm-customer_analysis-code.py] (https://github.com/user-attachments/files/26543321/rfm-customer_analysis-code.py)  — Main Python script
+  (data,cleaning,RFM calculation,visualizations)
+  
+*[rfm-customer_analysis-SQL.sql] (https://github.com/user-attachments/files/26543383/rfm-customer_analysis-SQL.sql) — MySQL queries for data exploration
+*[rfm-customer_analysis-excel.xlsx](https://github.com/user-attachments/files/26543411/rfm-customer_analysis-excel.xlsx) sis-excel.xlsx — Pivot tables and charts
+* [customer_transactions_dataset.csv](https://github.com/user-attachments/files/26543444/customer_transactions_dataset.csv)
+* [customer_transactions_dataset.csv] (https://github.com/user-attachments/files/26543450/customer_transactions_dataset.csv) — Dataset files
+* `visuals/` —
 
 ## 🚀 How to Run
 1. Clone the repository
