@@ -1,6 +1,6 @@
 # RFM Customer Segmentation
 Data analysis project focused on customer segmentation using RFM (Recency, Frequency, Monetary) model to uncover insights, identify VIP customers, improve retention, and support business decision-making.
-## 📈  Charts and pivot table screenshots
+## 📈  Charts and pivot table screenshot
 <img width="1038" height="531" alt="image" src="https://github.com/user-attachments/assets/978b4ffa-8a29-45bb-9eb9-6bec71a88614" />
 
 
