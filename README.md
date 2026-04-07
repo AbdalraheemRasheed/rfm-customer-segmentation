@@ -30,9 +30,8 @@ Data analysis project focused on customer segmentation using RFM (Recency, Frequ
   
 *[rfm-customer_analysis-SQL.sql] (https://github.com/user-attachments/files/26543383/rfm-customer_analysis-SQL.sql) — MySQL queries for data exploration
 *[rfm-customer_analysis-excel.xlsx](https://github.com/user-attachments/files/26543411/rfm-customer_analysis-excel.xlsx) sis-excel.xlsx — Pivot tables and charts
-* [customer_transactions_dataset.csv](https://github.com/user-attachments/files/26543444/customer_transactions_dataset.csv)
-* [customer_transactions_dataset.csv] (https://github.com/user-attachments/files/26543450/customer_transactions_dataset.csv) — Dataset files
-* `visuals/` —
+*[customer_transactions_dataset.csv] (https://github.com/user-attachments/files/26543450/customer_transactions_dataset.csv) — Dataset files
+
 
 ## 🚀 How to Run
 1. Clone the repository
